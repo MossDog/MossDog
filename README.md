@@ -1,4 +1,4 @@
-# Hey there 👋 I’m Luke “MossDog” Hughes
+# Hi there 👋
 
 **Software Developer — Problem Solver — Lifelong Learner**
 
